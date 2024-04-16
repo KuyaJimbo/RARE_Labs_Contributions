@@ -4,7 +4,7 @@ Week 1) 4/1/2024 - 4/8/2024
 
 ## stretch.cs
 
-This Unity script adjusts the position, scale, and rotation of a game object (`stretchcube)
+This Unity script adjusts the position, scale, and rotation of a game object (`stretchcube`)
 based on the positions of two other game objects (`cube1` and `cube2`).
 
 1. It calculates the center position between `cube1` and `cube2`.
