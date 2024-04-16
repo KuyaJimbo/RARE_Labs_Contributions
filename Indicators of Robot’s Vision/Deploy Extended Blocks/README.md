@@ -33,5 +33,5 @@ This Unity script provides WASD movement control for the object it's attached to
 4. Drag and drop the cubes from the Hierarchy into the `stretch.cs` script component to define the `stretchcubes` references of `cube1` and `cube2`
 
 (Bonus)
-1. Attach the "Movement" script to any GameObject you want to move using WASD controls in the XZ plane.
+1. Attach the `movement.cs` script to any GameObject you want to move using WASD controls in the XZ plane.
 If the RARE lab decides to expand the research to a moving robot that turns it's head, we can use this function to demonstrate how it's vision moves across the table.
