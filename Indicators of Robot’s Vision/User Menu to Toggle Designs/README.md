@@ -18,14 +18,14 @@ The `ChangeModel` script in Unity facilitates switching between different models
 ## Usage
 
 **Create Design Indicator Game Objects as children of their respective Image Target**<br>
-0. Be sure to attach the models of each Design Indicator and anchor them to the correct Image Target Object in the Hierarchy and adjust the position as necessary.
+1. Be sure to attach the models of each Design Indicator and anchor them to the correct Image Target Object in the Hierarchy and adjust the position as necessary.
 
 **Attach ChangeModel.cs**<br>
-1. Attach the script to a GameObject in your Unity scene. (I used the Canvas but you can create a new empty object too.)
-2. Assign GameObjects representing different designs to the appropriate public fields in the inspector by dragging and dropping the object from the hierarchy into the corresponding field.
+2. Attach the script to a GameObject in your Unity scene. (I used the Canvas but you can create a new empty object too.)
+3. Assign GameObjects representing different designs to the appropriate public fields in the inspector by dragging and dropping the object from the hierarchy into the corresponding field.
 
 **Set up Display Text**<br>
-3. Optionally, assign a TextMeshProUGUI component to the `DesignTextComponent` field for displaying design information.
+4. Optionally, assign a TextMeshProUGUI component to the `DesignTextComponent` field for displaying design information.
 
 **Set up Buttons to change current Design Indicator**<br>
 5. Create a Canvas and add Buttons for each design option and change their `onClick` function to ChooseDesign() using the button number as the argument.
