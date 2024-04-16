@@ -1,2 +1,6 @@
 # RARE_Labs_Contributions
-https://therarelab.com/
+Lab Website: https://therarelab.com/
+
+## Currently Working on:
+**Designing Indicators to Show a Robot’s Physical Vision Capability**
+Paper: https://therarelab.com/publications/vr24-designing-indicators-to-show-a-robots-physical-vision-capability/
