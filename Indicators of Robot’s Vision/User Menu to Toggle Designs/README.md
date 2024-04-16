@@ -33,14 +33,13 @@ The `ChangeModel` script in Unity facilitates switching between different models
 
 ## Design Numbers and Corresponding Designs
 
-- `0) Baseline`: Baseline design.
-- `1) Eye Socket`: Eye socket design.
-- `2) Near-Eye Blocks`: Design with blocks near the eye.
-- `3) Glasses`: Design with glasses.
-- `4) Near-Eye Hands`: Design with hands near the eye.
-- `5) Extended Blocks`: Design with extended blocks.
-- `6) Blocks at Task`: Design with blocks at the task.
-- `7) Projected Lines`: Design with projected lines.
-- `8) Diminished Environment`: Design with a diminished environment.
-- `9) Dim Environment`: Design with a dim environment.
-  
+- 0) Baseline: Baseline design.
+- 1) Eye Socket: Eye socket design.
+- 2) Near-Eye Blocks: Design with blocks near the eye.
+- 3) Glasses: Design with glasses.
+- 4) Near-Eye Hands: Design with hands near the eye.
+- 5) Extended Blocks: Design with extended blocks.
+- 6) Blocks at Task: Design with blocks at the task.
+- 7) Projected Lines: Design with projected lines.
+- 8) Diminished Environment: Design with a diminished environment.
+- 9) Dim Environment: Design with a dim environment.
