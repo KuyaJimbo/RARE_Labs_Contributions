@@ -17,10 +17,11 @@ The `ChangeModel` script in Unity facilitates switching between different models
 
 ## Usage
 
-**Create Design Indicator Game Objects as children of their respective Image Target**<br>
-**Attach ChangeModel.cs**<br>
-**Set up Display Text**<br>
-**Set up Buttons to change current Design Indicator**<br>
+**Summarized:**
+- **Create Design Indicator Game Objects as children of their respective Image Target**<br>
+- **Attach ChangeModel.cs**<br>
+- **Set up Display Text**<br>
+- **Set up Buttons to change current Design Indicator**<br>
 
 1) Be sure to attach the models of each Design Indicator and anchor them to the correct Image Target Object in the Hierarchy and adjust the position as necessary.
 2) Attach the script to a GameObject in your Unity scene. (I used the Canvas but you can create a new empty object too.)<br>
